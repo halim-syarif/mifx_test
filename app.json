@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "mifx_test",
+    "slug": "mifx_test",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "mifx_test"
+}
